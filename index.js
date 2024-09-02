@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["tweakkando","zeki's tweak is the best"];
+const statusMessages = ["Hiro Edist's🎬","Dev By Hiro"];
 
 
 let currentIndex = 0;
